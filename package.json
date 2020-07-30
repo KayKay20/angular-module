@@ -39,7 +39,7 @@
   },
   "scripts": {
     "ng": "ng",
-    "start": "ng serve --port=$PORT",
+    "start": "node ./server",
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
